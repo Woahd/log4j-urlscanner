@@ -26,4 +26,4 @@ wget https://raw.githubusercontent.com/Woahd/log4j-urlscanner/main/log4j-scanner
 python3 log4j-detect.py <urlFile> <collaboratorPayload>
 ```
 
-![imagen](https://user-images.githubusercontent.com/56491288/145856295-f85b06da-17f2-4aa7-85fb-e0b75d6e1965.png)
+![imagen](https://raw.githubusercontent.com/Woahd/log4j-urlscanner/main/static/145856295-f85b06da-17f2-4aa7-85fb-e0b75d6e1965.png)
