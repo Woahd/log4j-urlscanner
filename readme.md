@@ -17,7 +17,7 @@ It should be noted that this script only handles DNS detection of the vulnerabil
 ### Downloading log4j-detect.py
 
 ```sh
-wget https://raw.githubusercontent.com/Woahd/log4j-urlscanner/main/log4j-scanner.py
+wget https://raw.githubusercontent.com/Woahd/log4j-urlscanner/main/log4j-detect.py
 ```
 
 ### Running log4j-detect.py
